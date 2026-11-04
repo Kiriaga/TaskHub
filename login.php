@@ -8,7 +8,7 @@
                     <h4 class="mb-0"><i class="fa-solid fa-right-to-bracket me-2"></i>Iniciar Sesión</h4>
                 </div>
                 <div class="card-body p-4">
-                    <form id="loginForm" novalidate>
+                    <form id="loginForm">
                         <div class="mb-3">
                             <label for="login_email" class="form-label">Correo Electrónico</label>
                             <input type="email" class="form-control" id="login_email" placeholder="usuario@dominio.com">
