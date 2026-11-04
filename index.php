@@ -26,10 +26,10 @@
                 <div class="card-body">
                     <h3 class="card-title text-primary"><i class="fa-solid fa-cubes me-2"></i>Características Principales</h3>
                     <ul class="list-group list-group-flush mt-3">
-                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Control de accesos basado en roles (RBAC)[cite: 2].</li>
-                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Tableros interactivos tipo Kanban / Scrum[cite: 2].</li>
-                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Gestión de equipos, invitaciones e historial[cite: 2].</li>
-                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Métricas de productividad en tiempo real[cite: 2].</li>
+                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Control de accesos basado en roles (RBAC).</li>
+                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Tableros interactivos tipo Kanban / Scrum.</li>
+                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Gestión de equipos, invitaciones e historial.</li>
+                        <li class="list-group-item"><i class="fa-solid fa-check text-success me-2"></i>Métricas de productividad en tiempo real.</li>
                     </ul>
                 </div>
             </div>
